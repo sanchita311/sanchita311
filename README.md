@@ -6,10 +6,10 @@
 
 <br>
 
-- 🧠 Driven by **curiosity** and a passion for applying knowledge to **real world problems**
-- 💡 Always exploring new tools,currently diving into **blockchain**
-- 🤝 Interested in impactful work in **development** and **applied AI**
-- 🌟 Energized by projects that challenge my skills and spark creative thinking
+🎓 Second-year CSE student  
+- 🧠 Passionate about solving **real world problems** through code.
+- 💡 Exploring new tools currently diving into **blockchain**, development & applied **AI** .
+- 🌟 Energized by projects that push my technical boundaries and spark creativity.  
 
 **Connect with me:**  
 📫 [LinkedIn](https://www.linkedin.com/in/sanchita-desai) – I'd love to connect and discuss collaboration opportunities!
