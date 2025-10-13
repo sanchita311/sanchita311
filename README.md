@@ -6,7 +6,7 @@
 
 <br>
 
-- 🧠 Driven by **curiosity** and a passion for applying knowledge to **real-world problems**
+- 🧠 Driven by **curiosity** and a passion for applying knowledge to **real world problems**
 - 💡 Always exploring new tools,currently diving into **blockchain**
 - 🤝 Interested in impactful work in **development** and **applied AI**
 - 🌟 Energized by projects that challenge my skills and spark creative thinking
