@@ -7,6 +7,7 @@
 
 <br>
 
+## About Me
 🎓 Second-year CSE student  
 - 🧠 Passionate about solving **real world problems** through code.
 - 💡 Exploring new tools currently diving into **blockchain**, development & applied **AI** .
@@ -16,3 +17,6 @@
 📫 [LinkedIn](https://www.linkedin.com/in/sanchita-desai) – I'd love to connect and discuss collaboration opportunities!
 
 Happy Coding! ✨
+
+## Holopin Badges
+[![An image of @sanchita311's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sanchita311)](https://holopin.io/@sanchita311)
