@@ -8,7 +8,7 @@
 <br>
 
 ## About Me
-🎓 Second-year CSE student  
+🎓 Third-year CSE student  
 - 🧠 Passionate about solving **real world problems** through code.
 - 💡 Exploring new tools currently diving into **blockchain**, development & applied **AI** .
 - 🌟 Energized by projects that push my technical boundaries and spark creativity.  
